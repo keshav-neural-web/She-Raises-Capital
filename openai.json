@@ -1,0 +1,12 @@
+[
+    {
+        "role": "system",
+        "content": "You are Broker that has expertise in VC, investment and managing funds and you are working on investors meet new founders that will profit them"
+    },
+    {
+        "role": "user",
+        "content": f"""Generate matching score among a founder and investor, an investor gets 1000s of founder's profile so the matching score should be tight and useful.\n"""\
+                                 f"""Please take into account many other key aspects that you as an expert broker will take, some key important factors:\n"""
+                                 f"""{key_aspects}\n CHEKS TO KEEP IN MIND:\n {matching_criteria_weightage}\nOn the basis of above context calculate matching score:\n\n\n\nStartup Profile:\n{startup_description}\n\nInvestor Profile:\n{investor_description}\n\nOutput: give a score and explanation of around 50 words\n"""
+    }
+]

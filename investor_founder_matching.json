@@ -1,102 +1,994 @@
 {
-    "Frank M. Creer": [
-        "Anne-Sophie Mertgen",
-        "Kate Tulenko",
-        "Ozge Karakas"
-    ],
-    "Anthony Marlowe": [
-        "Anne-Sophie Mertgen",
-        "Veronica Crisafulli",
-        "Ozge Karakas"
-    ],
-    "Prasad Ramaswamy": [
-        "Veronica Crisafulli",
-        "Sophia Yen",
-        "Kate Tulenko"
-    ],
-    "Mark P. Gorenberg": [
-        "Shawnnah Monterrey",
-        "Sophia Yen",
-        "Kate Tulenko"
-    ],
-    "Shervin Kordary Pishevar": [
-        "Sophia Yen",
-        "Shawnnah Monterrey",
-        "Veronica Crisafulli"
-    ],
-    "Schuyler Lance": [
-        "Sophia Yen",
-        "Anne-Sophie Mertgen",
-        "Trina Angelone"
-    ],
-    "Jeffrey Bede": [
-        "Veronica Crisafulli",
-        "Trina Angelone",
-        "Anne-Sophie Mertgen"
-    ],
-    "Stephen A. Baker": [
-        "Kate Tulenko",
-        "Anne-Sophie Mertgen",
-        "Shawnnah Monterrey"
-    ],
-    "Oren Zeev": [
-        "Shawnnah Monterrey",
-        "Sophia Yen",
-        "Kate Tulenko"
-    ],
-    "Richard Erdman": [
-        "Sophia Yen",
-        "Shawnnah Monterrey",
-        "Veronica Crisafulli"
-    ],
-    "I\u00f1igo L\u00f3pez-Huerta": [
-        "Anne-Sophie Mertgen",
-        "Veronica Crisafulli",
-        "Ozge Karakas"
-    ],
-    "Jyri Engestrom": [
-        "Trina Angelone",
-        "Anne-Sophie Mertgen",
-        "Kate Tulenko"
-    ],
-    "Keith Nilsson": [
-        "Trina Angelone",
-        "Shawnnah Monterrey",
-        "Kate Tulenko"
-    ],
-    "Frederick C. Tecce": [
-        "Stephanie Cartin",
-        "Ozge Karakas",
-        "Veronica Crisafulli"
-    ],
-    "Dick Leazer": [
-        "Veronica Crisafulli",
-        "Anne-Sophie Mertgen",
-        "Sophia Yen"
-    ],
-    "David Titus": [
-        "Veronica Crisafulli",
-        "Anne-Sophie Mertgen",
-        "Kate Tulenko"
-    ],
-    "Pankaj SHANKARLAL Jethwani": [
-        "Veronica Crisafulli",
-        "Anne-Sophie Mertgen",
-        "Sophia Yen"
-    ],
-    "Steve P. Westly": [
-        "Kate Tulenko",
-        "Anne-Sophie Mertgen",
-        "Veronica Crisafulli"
-    ],
-    "Sandeep Singhal": [
-        "Anne-Sophie Mertgen",
-        "Kate Tulenko",
-        "Shawnnah Monterrey"
-    ],
-    "Chester Schwartz": [
-        "Anne-Sophie Mertgen",
-        "Veronica Crisafulli",
-        "Kate Tulenko"
+    "Founder_recommendation": [
+        {
+            "Investor_fund_name": "Zone Ventures",
+            "Industry": "Commercial Services,Software",
+            "Verticals": "Industrials,TMT",
+            "Prefered Geography": "United States",
+            "Preferred Investment Stage": "Early Stage,Late Stage,PE Growth/Expansion,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "Less than a Billion",
+            "Recommendations": [
+                {
+                    "Founder Name": "Noa Gadot ",
+                    "Company": "the5starz",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech,Beauty & Wellness",
+                    "Geography": "Israel",
+                    "Planned Rasie Amount": "$500K - $750K",
+                    "Target Market": "Israel",
+                    "Investment Stage": "Angel ",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Clair Marie McDade",
+                    "Company": "Archneura Inc.",
+                    "Industry": "Real Estate",
+                    "Verticals": "Real Estate Technology,Construction Technology",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Harsha Parbat",
+                    "Company": "AllFive Inc",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India,Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Adria Levtcheno",
+                    "Company": "PurpleCloud Technologies",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Gaming,enterprise??",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Iowa City Capital Partners",
+            "Industry": "Software",
+            "Verticals": "TMT",
+            "Prefered Geography": "United States",
+            "Preferred Investment Stage": "Acquisition Financing,Late Stage",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$1B to $50B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Adria Levtcheno",
+                    "Company": "PurpleCloud Technologies",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Gaming,enterprise??",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "kate Fisher",
+                    "Company": "WVN",
+                    "Industry": "Fashion",
+                    "Verticals": "Beauty & Wellness,Marketplace",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Noa Gadot ",
+                    "Company": "the5starz",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech,Beauty & Wellness",
+                    "Geography": "Israel",
+                    "Planned Rasie Amount": "$500K - $750K",
+                    "Target Market": "Israel",
+                    "Investment Stage": "Angel ",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Veronica Crisafulli",
+                    "Company": "MO Technologies",
+                    "Industry": "Financial Institutions and Services",
+                    "Verticals": "FinTech,Cryptocurrency/Blockchain",
+                    "Geography": "Colombia",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Colombia",
+                    "Investment Stage": "Pre-SEED, SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Zephyr Management",
+            "Industry": "Agriculture,Apparel and Accessories,Commercial Products,Commercial Services,Consumer Non-Durables,IT Services,Other Business Products and Services,Other Financial Services,Restaurants,Hotels and Leisure,Services (Non-Financial),Software",
+            "Verticals": "Beauty,Life Sciences,Manufacturing,TMT",
+            "Prefered Geography": "Africa, Asia, Central America, Middle East, United States",
+            "Preferred Investment Stage": "Buy-out,Early Stage,Late Stage,PE Growth/Expansion",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$1B to $50B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Jeni Wellington ",
+                    "Company": "Annuo Med Tech ",
+                    "Industry": "Medical Devices and Equipment",
+                    "Verticals": "Marketplace,HealthTech",
+                    "Geography": "Australia",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "Australia",
+                    "Investment Stage": "Pre-SEED, SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Ozge Karakas",
+                    "Company": "Hi-D Imaging",
+                    "Industry": "Software and Information Services,Electronics and Computer Hardware",
+                    "Verticals": "HealthTech,FemTech,Infrastructure",
+                    "Geography": "Switzerland",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Europe",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Sophia Yen",
+                    "Company": "PandiaHealth.com",
+                    "Industry": "Healthcare",
+                    "Verticals": "HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "USA,LATAM",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "MADHUMITA AGRAWAL",
+                    "Company": "OBEN ELECTRIC VEHICLES PRIVATE LIMITED",
+                    "Industry": "Machinery and Industrial Goods",
+                    "Verticals": "MobilityTech,Marketplace",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India",
+                    "Investment Stage": "Bridge Round",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Thyagi DeLanerolle",
+                    "Company": "OOt Media Holdings Inc.",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech",
+                    "Geography": "Canada",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Canada",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Zetta Venture Partners",
+            "Industry": "Business Products and Services (B2B),Other Information Technology,Software",
+            "Verticals": "Artificial Intelligence & Machine Learning,Big Data,SaaS",
+            "Prefered Geography": "Europe, United States",
+            "Preferred Investment Stage": "Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$50B to $100B",
+            "Recommendations": [
+                {
+                    "Founder Name": "MADHUMITA AGRAWAL",
+                    "Company": "OBEN ELECTRIC VEHICLES PRIVATE LIMITED",
+                    "Industry": "Machinery and Industrial Goods",
+                    "Verticals": "MobilityTech,Marketplace",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India",
+                    "Investment Stage": "Bridge Round",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Chinar Movsisyan",
+                    "Company": "manot",
+                    "Industry": "Software and Information Services",
+                    "Verticals": "Cybersecurity",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Adria Levtcheno",
+                    "Company": "PurpleCloud Technologies",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Gaming,enterprise??",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Harsha Parbat",
+                    "Company": "AllFive Inc",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India,Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Shervin Pishevar",
+            "Industry": "Software",
+            "Verticals": "TMT",
+            "Prefered Geography": "408, 650",
+            "Preferred Investment Stage": "Angel Round,Early Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$1B to $50B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Flora Azucena",
+                    "Company": "Alchemy Vision",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "Beauty & Wellness,Infrastructure,HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Melissa Martinelli",
+                    "Company": "Superfrau",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Noa Gadot ",
+                    "Company": "the5starz",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech,Beauty & Wellness",
+                    "Geography": "Israel",
+                    "Planned Rasie Amount": "$500K - $750K",
+                    "Target Market": "Israel",
+                    "Investment Stage": "Angel ",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Sophia Yen",
+                    "Company": "PandiaHealth.com",
+                    "Industry": "Healthcare",
+                    "Verticals": "HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "USA,LATAM",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "kate Fisher",
+                    "Company": "WVN",
+                    "Industry": "Fashion",
+                    "Verticals": "Beauty & Wellness,Marketplace",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "SustainVC",
+            "Industry": "Education and Training Services (B2B),Healthcare Services,Software",
+            "Verticals": "3D Printing,AgTech,Big Data,CleanTech,Digital Health,E-Commerce,EdTech,FoodTech,HealthTech,Impact Investing,Internet of Things,LOHAS & Wellness,SaaS,TMT",
+            "Prefered Geography": "North America",
+            "Preferred Investment Stage": "Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$1B to $50B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Trina Angelone",
+                    "Company": "GlobalED",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "EdTech,Virtual/Augmented Reality",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Adria Levtcheno",
+                    "Company": "PurpleCloud Technologies",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Gaming,enterprise??",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "kate Fisher",
+                    "Company": "WVN",
+                    "Industry": "Fashion",
+                    "Verticals": "Beauty & Wellness,Marketplace",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Flora Azucena",
+                    "Company": "Alchemy Vision",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "Beauty & Wellness,Infrastructure,HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Harsha Parbat",
+                    "Company": "AllFive Inc",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India,Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "ORIX Growth Capital",
+            "Industry": "Communications and Networking,Healthcare Technology Systems,Other Information Technology,Other IT Services,Software,Systems and Information Management",
+            "Verticals": "Artificial Intelligence & Machine Learning,Big Data,CloudTech & DevOps,Cybersecurity,Digital Health,E-Commerce,EdTech,FinTech,HealthTech,HR Tech,InsurTech,Internet of Things,Legal Tech,Marketing Tech,Mobile,Mobile Commerce,Mobility Tech,Oncology,Restaurant Technology,Supply Chain Tech,TMT,Virtual Reality",
+            "Prefered Geography": "Canada, Germany, Netherlands, United Kingdom, United States",
+            "Preferred Investment Stage": "Acquisition Financing,Early Stage,Late Stage,Mezzanine,PE Growth/Expansion,Secondary Transaction - Private",
+            "Preferred Investment Type": "Debt,Debt Refinancing,Loan",
+            "Preferred TAM": "$1B to $50B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Trina Angelone",
+                    "Company": "GlobalED",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "EdTech,Virtual/Augmented Reality",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "MADHUMITA AGRAWAL",
+                    "Company": "OBEN ELECTRIC VEHICLES PRIVATE LIMITED",
+                    "Industry": "Machinery and Industrial Goods",
+                    "Verticals": "MobilityTech,Marketplace",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India",
+                    "Investment Stage": "Bridge Round",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Melissa Martinelli",
+                    "Company": "Superfrau",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Harsha Parbat",
+                    "Company": "AllFive Inc",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India,Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Fort Washington Capital Partners",
+            "Industry": "Commercial Services,Consumer Products and Services (B2C),Energy,Financial Services,Healthcare,Information Technology",
+            "Verticals": "Industrials",
+            "Prefered Geography": "Asia, Europe, United States",
+            "Preferred Investment Stage": "Buy-out,Early Stage,Late Stage,PE Growth/Expansion,Secondary Transaction - Private",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$100B to $500B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Thyagi DeLanerolle",
+                    "Company": "OOt Media Holdings Inc.",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech",
+                    "Geography": "Canada",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Canada",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Sophia Yen",
+                    "Company": "PandiaHealth.com",
+                    "Industry": "Healthcare",
+                    "Verticals": "HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "USA,LATAM",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Lucy Kennedy",
+                    "Company": "Spottitt",
+                    "Industry": "Software and Information Services",
+                    "Verticals": "Infrastructure,Space Technology,Construction Technology",
+                    "Geography": "United Kingdom (Britain / UK)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United Kingdom (Britain / UK)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "kate Fisher",
+                    "Company": "WVN",
+                    "Industry": "Fashion",
+                    "Verticals": "Beauty & Wellness,Marketplace",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Flora Azucena",
+                    "Company": "Alchemy Vision",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "Beauty & Wellness,Infrastructure,HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Zeev Ventures",
+            "Industry": "Consumer Products and Services (B2C),Insurance,Software",
+            "Verticals": "E-Commerce,FinTech,InsurTech,TMT",
+            "Prefered Geography": "United States",
+            "Preferred Investment Stage": "Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$100B to $500B",
+            "Recommendations": [
+                {
+                    "Founder Name": "MADHUMITA AGRAWAL",
+                    "Company": "OBEN ELECTRIC VEHICLES PRIVATE LIMITED",
+                    "Industry": "Machinery and Industrial Goods",
+                    "Verticals": "MobilityTech,Marketplace",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India",
+                    "Investment Stage": "Bridge Round",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Chinar Movsisyan",
+                    "Company": "manot",
+                    "Industry": "Software and Information Services",
+                    "Verticals": "Cybersecurity",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Trina Angelone",
+                    "Company": "GlobalED",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "EdTech,Virtual/Augmented Reality",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Adria Levtcheno",
+                    "Company": "PurpleCloud Technologies",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Gaming,enterprise??",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Tech Coast Angels",
+            "Industry": "Services (Non-Financial),Software",
+            "Verticals": "TMT",
+            "Prefered Geography": "United States",
+            "Preferred Investment Stage": "Angel Round,Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "Less than a Billion",
+            "Recommendations": [
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Lucy Kennedy",
+                    "Company": "Spottitt",
+                    "Industry": "Software and Information Services",
+                    "Verticals": "Infrastructure,Space Technology,Construction Technology",
+                    "Geography": "United Kingdom (Britain / UK)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United Kingdom (Britain / UK)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Harsha Parbat",
+                    "Company": "AllFive Inc",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India,Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "kate Fisher",
+                    "Company": "WVN",
+                    "Industry": "Fashion",
+                    "Verticals": "Beauty & Wellness,Marketplace",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Flora Azucena",
+                    "Company": "Alchemy Vision",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "Beauty & Wellness,Infrastructure,HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Ysios Capital",
+            "Industry": "Pharmaceuticals and Biotechnology",
+            "Verticals": "Life Sciences",
+            "Prefered Geography": "Europe",
+            "Preferred Investment Stage": "Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$500B to $1Trillion",
+            "Recommendations": [
+                {
+                    "Founder Name": "Noa Gadot ",
+                    "Company": "the5starz",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech,Beauty & Wellness",
+                    "Geography": "Israel",
+                    "Planned Rasie Amount": "$500K - $750K",
+                    "Target Market": "Israel",
+                    "Investment Stage": "Angel ",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Sophia Yen",
+                    "Company": "PandiaHealth.com",
+                    "Industry": "Healthcare",
+                    "Verticals": "HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "USA,LATAM",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "MADHUMITA AGRAWAL",
+                    "Company": "OBEN ELECTRIC VEHICLES PRIVATE LIMITED",
+                    "Industry": "Machinery and Industrial Goods",
+                    "Verticals": "MobilityTech,Marketplace",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India",
+                    "Investment Stage": "Bridge Round",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "kate Fisher",
+                    "Company": "WVN",
+                    "Industry": "Fashion",
+                    "Verticals": "Beauty & Wellness,Marketplace",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Melissa Martinelli",
+                    "Company": "Superfrau",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Yes VC",
+            "Industry": "Business Products and Services (B2B),Consumer Non-Durables,Healthcare,Information Technology,Retail",
+            "Verticals": "Artificial Intelligence & Machine Learning,Beauty,Climate Tech,CloudTech & DevOps,Cybersecurity,E-Commerce,LOHAS & Wellness,Micro-Mobility,Mobile,Robotics and Drones,TMT,Wearables & Quantified Self",
+            "Prefered Geography": "Americas, Canada, Europe, United States",
+            "Preferred Investment Stage": "Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$50B to $100B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Alveena Sohail",
+                    "Company": "civixa.ai",
+                    "Industry": "Software and Information Services",
+                    "Verticals": "EdTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "Pre-SEED, SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Harsha Parbat",
+                    "Company": "AllFive Inc",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India,Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Trina Angelone",
+                    "Company": "GlobalED",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "EdTech,Virtual/Augmented Reality",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Adria Levtcheno",
+                    "Company": "PurpleCloud Technologies",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Gaming,enterprise??",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Xplorer Capital",
+            "Industry": "Agriculture,Healthcare,Logistics,Software",
+            "Verticals": "Artificial Intelligence & Machine Learning,Autonomous cars,CleanTech,Cryptocurrency/Blockchain,Digital Health,FinTech,HealthTech,Industrials,Internet of Things,Manufacturing,Mobile,Robotics and Drones",
+            "Prefered Geography": "North America",
+            "Preferred Investment Stage": "Early Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$100B to $500B",
+            "Recommendations": [
+                {
+                    "Founder Name": "Anne-Sophie Mertgen",
+                    "Company": "Micro Meat",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "HealthTech,AgTech",
+                    "Geography": "Mexico",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Mexico,USA",
+                    "Investment Stage": "Series D, Late Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Noa Gadot ",
+                    "Company": "the5starz",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech,Beauty & Wellness",
+                    "Geography": "Israel",
+                    "Planned Rasie Amount": "$500K - $750K",
+                    "Target Market": "Israel",
+                    "Investment Stage": "Angel ",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Ozge Karakas",
+                    "Company": "Hi-D Imaging",
+                    "Industry": "Software and Information Services,Electronics and Computer Hardware",
+                    "Verticals": "HealthTech,FemTech,Infrastructure",
+                    "Geography": "Switzerland",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Europe",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Erika Brodnock ",
+                    "Company": "Kami",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "EdTech",
+                    "Geography": "United Kingdom (Britain / UK),United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United Kingdom (Britain / UK),United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "Jeni Wellington ",
+                    "Company": "Annuo Med Tech ",
+                    "Industry": "Medical Devices and Equipment",
+                    "Verticals": "Marketplace,HealthTech",
+                    "Geography": "Australia",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "Australia",
+                    "Investment Stage": "Pre-SEED, SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Cross Atlantic Capital Partners",
+            "Industry": "Commercial Services,Software",
+            "Verticals": "TMT",
+            "Prefered Geography": "United States",
+            "Preferred Investment Stage": "Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "$500B to $1Trillion",
+            "Recommendations": [
+                {
+                    "Founder Name": "Kate Tulenko",
+                    "Company": "Corvus Health",
+                    "Industry": "Healthcare",
+                    "Verticals": "HealthTech,Digital Health,FemTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "Up to $500K",
+                    "Target Market": "Nigeria,Kenya,Ethiopia,USA",
+                    "Investment Stage": "Pre-SEED, SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Trina Angelone",
+                    "Company": "GlobalED",
+                    "Industry": "Educational and Training Services",
+                    "Verticals": "EdTech,Virtual/Augmented Reality",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Global",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Adria Levtcheno",
+                    "Company": "PurpleCloud Technologies",
+                    "Industry": "Travel and Leisure",
+                    "Verticals": "Gaming,enterprise??",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Under $5 Billion"
+                },
+                {
+                    "Founder Name": "MADHUMITA AGRAWAL",
+                    "Company": "OBEN ELECTRIC VEHICLES PRIVATE LIMITED",
+                    "Industry": "Machinery and Industrial Goods",
+                    "Verticals": "MobilityTech,Marketplace",
+                    "Geography": "India",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "India",
+                    "Investment Stage": "Bridge Round",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Sophia Yen",
+                    "Company": "PandiaHealth.com",
+                    "Industry": "Healthcare",
+                    "Verticals": "HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "USA,LATAM",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                }
+            ]
+        },
+        {
+            "Investor_fund_name": "Wisconsin Investment Partners",
+            "Industry": "Healthcare,Healthcare Devices and Supplies,Healthcare Services,Healthcare Technology Systems,Other Healthcare,Pharmaceuticals and Biotechnology",
+            "Verticals": "HealthTech",
+            "Prefered Geography": "United States",
+            "Preferred Investment Stage": "Angel Round,Early Stage,Late Stage,Seed",
+            "Preferred Investment Type": "Convertible Debt,SAFE,Debt",
+            "Preferred TAM": "Less than a Billion",
+            "Recommendations": [
+                {
+                    "Founder Name": "Melissa Martinelli",
+                    "Company": "Superfrau",
+                    "Industry": "Food and Beverage",
+                    "Verticals": "Beauty & Wellness",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "$5Billion to $10Billion"
+                },
+                {
+                    "Founder Name": "Thyagi DeLanerolle",
+                    "Company": "OOt Media Holdings Inc.",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech",
+                    "Geography": "Canada",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "Canada",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Alveena Sohail",
+                    "Company": "civixa.ai",
+                    "Industry": "Software and Information Services",
+                    "Verticals": "EdTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$750K - $1M",
+                    "Target Market": "United States of America (USA)",
+                    "Investment Stage": "Pre-SEED, SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Sophia Yen",
+                    "Company": "PandiaHealth.com",
+                    "Industry": "Healthcare",
+                    "Verticals": "HealthTech",
+                    "Geography": "United States of America (USA)",
+                    "Planned Rasie Amount": "$1M to $2M",
+                    "Target Market": "USA,LATAM",
+                    "Investment Stage": "SEED, Early Stage",
+                    "Market size": "Over $10 Billion"
+                },
+                {
+                    "Founder Name": "Noa Gadot ",
+                    "Company": "the5starz",
+                    "Industry": "Media and Content",
+                    "Verticals": "EdTech,Beauty & Wellness",
+                    "Geography": "Israel",
+                    "Planned Rasie Amount": "$500K - $750K",
+                    "Target Market": "Israel",
+                    "Investment Stage": "Angel ",
+                    "Market size": "Under $5 Billion"
+                }
+            ]
+        }
     ]
 }
